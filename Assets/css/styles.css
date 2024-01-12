@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-transform: uppercase;
+}
+.alinear-horizontal{
+    display: flex;
+    flex-direction: row;
+}
+.alinear-horizontal p{
+    margin-top: 24px;
+    margin-left: 10px;
+}
